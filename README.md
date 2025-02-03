@@ -15,6 +15,7 @@ git clone https://github.com/thomas211738/KTP_Activities.git
 Then, open the repository in Visual Studio Code and open this directory. 
 
 We now need to install the dependencies and packages we need to run our code. In the terminal, run:
+
 ```
 sudo npm install -g expo-cli
 npm install expo
